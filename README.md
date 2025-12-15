@@ -9,7 +9,7 @@ Python scripts and tools built for Recon .... Red Teamer
 
 > ⚠️ Educational and authorized use only. Do not run this tool against targets you do not own or have explicit permission to test.
 
-F.I.N.D.E.R is a powerful, multi-threaded reconnaissance and domain enumeration tool crafted in **Python** on **Parrot OS**. It is designed to automate the process of identifying subdomains, scanning ports, detecting WAF/CDN presence, and gathering WHOIS information — making it an ideal utility for penetration testers, ethical hackers, and bug bounty hunters.
+F.I.N.D.E.R is a powerful, multi-threaded reconnaissance and domain enumeration tool crafted in **Python** on **Parrot OS**. It is designed to automate the process of identifying subdomains, scanning ports, detecting WAF/CDN presence, and gathering WHOIS information - making it an ideal utility for penetration testers, ethical hackers, and bug bounty hunters.
 
 ---
 
@@ -56,12 +56,14 @@ Always get permission before scanning any system.
 ## 📥 How to Download, Run, and Modify Gray-Finder
 
 ### 🔻 1. Clone the Repository
-
+```
 git clone https://github.com/subir-the-coder/Gray-Finder.git
 cd Gray-Finder
+```
 
 
 
+Report any bugs on subirthecoder35@gmail.com 
 
-Report any bugs on subirthecoder35@gmail.com | Feel free to modify or add any more logics without changing banner | Thanks Coders
+If this has helped you, dont forget to star
 
